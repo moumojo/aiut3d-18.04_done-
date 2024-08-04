@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+624267e953c7eebe883deddd8a0313c3 moc_creditwindow.cpp
+635979a73e433a5603fa81484bf30eff moc_mainwindow.cpp
+579b76bc49ade912939de581eb5f4474 moc_sendertoserver.cpp
+b251fe57d6e7a3bf861b9ee4cdb4c2ac ui_creditwindow.h
+41229a0f2068f489ff51481a2809391b ui_mainwindow.h

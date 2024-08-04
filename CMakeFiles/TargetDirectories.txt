@@ -1,0 +1,4 @@
+/home/mojo/Desktop/aiut3d-motion-editor-master(复件)/CMakeFiles/rebuild_cache.dir
+/home/mojo/Desktop/aiut3d-motion-editor-master(复件)/CMakeFiles/edit_cache.dir
+/home/mojo/Desktop/aiut3d-motion-editor-master(复件)/CMakeFiles/MyProjectLib.dir
+/home/mojo/Desktop/aiut3d-motion-editor-master(复件)/CMakeFiles/motionEditor.dir
